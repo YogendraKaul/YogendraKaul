@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-🔭 I’m currently working on myself<br>🤝 I’m looking for help <br>🌱 I’m currently learning<br>💬 Ask me about coding <br>⚡ Fun fact : I'm dumb
+🔭 I’m currently working on myself<br> 🌱 I’m currently learning<br>💬 Ask me about coding <br>⚡ Fun fact : I'm dumb
 
 
 ## 🌐 Socials:
