@@ -3,6 +3,7 @@
 # 💫 About Me:
 🔭 I’m currently working on myself<br> 🌱 I’m currently learning<br>💬 Ask me about coding <br>⚡ Fun fact : I'm dumb
 
+[![](https://visitcount.itsvg.in/api?id=Nekkoteen&icon=5&color=0)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yogendra_kaul) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/YogendraKaul) 
@@ -18,6 +19,3 @@
 ![](https://github-profile-trophy.vercel.app/?username=Nekkoteen&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Nekkoteen&icon=5&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
