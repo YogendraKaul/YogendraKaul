@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-🔭 I’m currently working on myself<br> 🌱 I’m currently learning<br>💬 Ask me about coding <br>⚡ Fun fact : I'm dumb
+🔭 I’m currently working on myself<br> 🌱 I’m currently learning<br>💬 Ask me about coding <br>⚡ Fun fact : I'm noob
 
 [![](https://visitcount.itsvg.in/api?id=Nekkoteen&icon=5&color=0)](https://visitcount.itsvg.in)
 
